@@ -2,7 +2,7 @@
 
 <p align="left">
 
-## Hi there, I'm Sachin Singh 👋🏻 
+## Hi there, I'm Sachin Singh 👋🏻
  
 I'm a second year student, persuing a BE degree in Computer Science, with a serious passion for Machine learning, computer vision and Deep learning. <br>
 <br>
