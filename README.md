@@ -11,7 +11,7 @@ I'm a second year student, persuing a BE degree in Computer Science, with a seri
 <br>
 
 
-<img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=sachinSingh16-09&show_icons=true&count_private=true&title_color=ff0087&bg_color=fafbfc00&text_color=a2a2a2" alt="Sachin's github stats" />
+<img align="left" height="180px" src="https://github-readme-stats.vercel.app/api?username=sachinSingh16-09&show_icons=true&count_private=true&title_color=ff0087&bg_color=fafbfc00&text_color=a2a2a2" alt="Sachin's github stats" />
 
   <img align="centre" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinSingh16-09&title_color=ff0087&bg_color=fafbfc00&text_color=35b5ff&hide=EJS" />
 <p align="center"> 
