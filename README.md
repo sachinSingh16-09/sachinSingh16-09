@@ -1,4 +1,4 @@
-<img align="right" height="220px" src="https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2021/08/learn-coding-online-for-free.png" alt="image" />
+<img align="right" height="200px" src="https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2021/08/learn-coding-online-for-free.png" alt="image" />
 
 <p align="left">
 
