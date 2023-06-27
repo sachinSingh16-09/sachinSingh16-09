@@ -6,7 +6,7 @@
  
 I'm a second year student, pursuing a BE degree in Computer Science, with a serious passion for Machine learning, computer vision and Deep learning. <br>
 <br>
-"I’m currently learning Deep Learning" <br>
+"✌️I’m currently learning Deep Learning" <br>
   <p>
 <br>
 
