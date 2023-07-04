@@ -3,12 +3,13 @@
 <p align="left">
 
 ## Hi there, I'm Sachin Singh 👋🏻
+[![Twitter Badge](http://img.shields.io/badge/-@sachinSingh_169-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/howdevelop)](https://twitter.com/howdevelop) 
+[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:sachinishu02@gmail.com)](mailto:sachinishu02@gmail.com)
+<br>
  
 I'm a second year student, pursuing a BE degree in Computer Science, with a serious passion for Machine learning, computer vision and Deep learning. <br>
 <br>
-"✌️I’m currently learning Deep Learning" <br>
-[![Twitter Badge](http://img.shields.io/badge/-@sachinSingh_169-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/howdevelop)](https://twitter.com/howdevelop) 
-[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:sachinishu02@gmail.com)](mailto:sachinishu02@gmail.com)
+"✌️I’m currently learning Deep Learning"<br>
 <br>
 **Languages and Tools:**  
 
@@ -40,5 +41,5 @@ I'm a second year student, pursuing a BE degree in Computer Science, with a seri
   Visitor count<br>
   <img align="center" src="https://profile-counter.glitch.me/sachinSingh16-09/count.svg" />
 </p>
->
+
 
