@@ -7,6 +7,8 @@
 I'm a second year student, pursuing a BE degree in Computer Science, with a serious passion for Machine learning, computer vision and Deep learning. <br>
 <br>
 "✌️I’m currently learning Deep Learning" <br>
+[![Twitter Badge](http://img.shields.io/badge/-@sachinSingh_169-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/howdevelop)](https://twitter.com/howdevelop) 
+[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:sachinishu02@gmail.com)](mailto:sachinishu02@gmail.com)
 <br>
 
 <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=sachinSingh16-09&show_icons=true&count_private=true&title_color=ff0087&bg_color=36454f&text_color=a2a2a2" alt="Sachin's github stats" />
