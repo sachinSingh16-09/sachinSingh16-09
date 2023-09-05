@@ -25,9 +25,9 @@ I'm a second year student, pursuing a BE degree in Computer Science, with a seri
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-<img align="left" height="200px" src="https://github-readme-stats-sigma-5.vercel.app/api?username=sachinSingh16-09&show_icons=true&hide_border=true&title_color=ff0087&bg_color=36454f&text_color=a2a2a2" alt="Sachin's github stats" />
+<img align="left" height="200px" src="https://readme-stats-pi-ten.vercel.app/api?username=sachinSingh16-09&show_icons=true&hide_border=true&title_color=ff0087&bg_color=36454f&text_color=a2a2a2" alt="Sachin's github stats" />
 
-<img align="right" height="200px" src="https://github-readme-stats-sigma-5.vercel.app/api/top-langs/?username=sachinSingh16-09&title_color=ff0087&bg_color=36454f&text_color=35b5ff&hide=EJS" />
+<img align="right" height="200px" src="https://readme-stats-pi-ten.vercel.app/api/top-langs/?username=sachinSingh16-09&title_color=ff0087&bg_color=36454f&text_color=35b5ff&hide=EJS" />
 <br>
 <br>
 <br>
