@@ -2,7 +2,7 @@
 
 <p align="left">
 
-## Hi there, I'm Sachin Singh 👋🏻
+## Hi there, I'm Sachin👋🏻
 [![Twitter Badge](http://img.shields.io/badge/-@sachinSingh_169-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/sachinSingh_169)](https://twitter.com/sachinSingh_169) 
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:sachinishu02@gmail.com)](mailto:sachinishu02@gmail.com)
 <br>
