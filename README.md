@@ -26,7 +26,6 @@ I'm a second year student, pursuing a BE degree in Computer Science, with a seri
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sachinSingh16-09&theme=dark&background=000000)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinSingh16-09&theme=dark&background=000000&layout=compact)
 <p align="center"> 
   Visitor count<br>
