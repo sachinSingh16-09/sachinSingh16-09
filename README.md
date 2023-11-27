@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:sachinishu02@gmail.com)](mailto:sachinishu02@gmail.com)
 <br>
  
-I'm a second year student, pursuing a BE degree in Computer Science, with a serious passion for Machine learning, computer vision and Deep learning. <br>
+I'm a third year student, pursuing a BE degree in Computer Science, with a serious passion for Machine learning, computer vision and Deep learning. <br>
 <br>
 "✌️I’m currently learning Deep Learning"<br>
 <br>
