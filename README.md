@@ -9,7 +9,7 @@
  
 I'm a third year student, pursuing a BE degree in Computer Science, with a serious passion for Machine learning, computer vision and Deep learning. <br>
 <br>
-"✌️I’m currently learning Deep Learning"<br>
+"✌️I’m currently learning DevOps"<br>
 <br>
 <h4><u>Languages and Tools:</u></h4>  
 
